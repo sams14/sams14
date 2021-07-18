@@ -26,9 +26,9 @@ or use it. It'll help me a great deal.
 - 💬 Ask me about **anything(would definitely try helping you out)**
 - 📫 How to reach me [**sambidbharadwaj@gmail.com**](mailto:sambidbharadwaj@gmail.com)
 - 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **Apart from playing with 0 1, I'm also into teaching, book reading, sports and social development activities !!**&ensp;*This way to my twitter handle(PS: all followers are welcome 😄) ➡️* <br>
+- ⚡ Fun fact: **Apart from playing with 0 1, I'm also into teaching, book reading, sports and social development activities !!**&ensp;*This way to my twitter and instagram handles (PS: all followers are welcome 😄) ➡️* <br>
  
-&emsp; &emsp;<a href="https://twitter.com/sam_invincible3"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>&nbsp;&nbsp;<br>
+&emsp; &emsp;<a href="https://twitter.com/sam_invincible3"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/><br>
 
 
 ## Tech Toolbox 🧰<br>
@@ -57,8 +57,8 @@ or use it. It'll help me a great deal.
 
 ## Open Source Projects 🥇<br>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Ash-exp) 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Ash-exp)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/sams14) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/sams14)
  
 |      Project :octocat:   |      Stars🌟    |  Forks🍴  |  Issues🐛  |  Open PRs:bell:  |  Closed PRs:fire:  |
 |-------------|-------------------|---|---|---|---|
@@ -68,28 +68,28 @@ or use it. It'll help me a great deal.
 
 ## GitHub Stats 🎯<br>
 
-<img src="https://komarev.com/ghpvc/?username=Ash-exp" alt="Ash-exp" />
+<img src="https://komarev.com/ghpvc/?username=sams14" alt="sams14" />
 
 
 <details><summary>Contribution Graph</summary>
 <br>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Ash-exp&theme=xcode" /></p>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sams14&theme=xcode" /></p>
 </details>
 
 
 <details><summary>Trophies</summary>
 <br>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=Ash-exp&column=7&theme=gruvbox&no-frame=true"/>
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=sams14&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
-<p align="left" width="100%"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-exp&layout=compact&theme=radical" alt="Ash-exp" /></p>
+<p align="left" width="100%"><img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sams14&layout=compact&theme=radical" alt="sams14" /></p>
 <p align="left" width="100%">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ash-exp&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ash-exp" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sams14&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="sams14" /> 
   &nbsp;
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-exp&theme=radical" alt="Ash-exp" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sams14&theme=radical" alt="sams14" />
 </p>
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories! or to be absolutely nice by follwoing on git</h3>
