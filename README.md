@@ -5,7 +5,7 @@ or use it. It'll help me a great deal.
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Asutosh</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3><br>
 
-![Alt text of image](<https://github.com/Ash-exp/profile/blob/main/Banner/Profile%20Banner.png>)
+![Alt text of image](<https://github.com/sams14/sams14/blob/main/Banner/Profile%20Banner.png>)
 
 <a href="https://www.linkedin.com/in/ash-exp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>&nbsp;&nbsp;
 <a href="https://github.com/Ash-exp/"><img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white"></img></a>&nbsp;&nbsp; 
