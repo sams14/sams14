@@ -2,7 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It'll help me a great deal.
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Asutosh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sambid</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3><br>
 
 ![Alt text of image](<https://github.com/sams14/sams14/blob/main/Banner/Profile%20Banner.png>)
@@ -12,9 +12,9 @@ or use it. It'll help me a great deal.
 <a href="https://www.hackerrank.com/saminvincible3"><img src="https://img.shields.io/badge/Hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>&nbsp;&nbsp;
 
 <ul>
-<li><p align="left">Developer intern at <a href="http://www.practee.com/">Practee Technologies</a> 🔐, Competitive programmer at <a href="https://www.hackerrank.com/">Hacker Rank</a> & <a href="https://www.codechef.com/">Code Chef</a> 🤳, Artificial Intelligence & Machine LearningEnthusiast🔭, Mentor and Project Admin at <a href="https://github.com/Learn-For-Cause">GitHub</a>🚀, Co-founder and IT Head at <a href="https://www.learnforcause.com">Learn For Cause Community</a> 🙌, Freelancer👯</a></p></li>
+<li><p align="left">Developer-IT Team @ <a href="http://www.practee.com/">Practee Technologies</a> 🔐, Competitive programmer @ <a href="https://www.hackerrank.com/">Hacker Rank</a> 🤳, Artificial Intelligence & Machine LearningEnthusiast🔭, Mentor, Instructor and Developer @ <a href="https://github.com/Learn-For-Cause">GitHub</a>🚀</p></li>
 
-<li><p align="left">Passionate for learning and developing technologies💭, that aims to solve problems creating a greater impact on society. With my passion for innovation, I believe in giving my best and love what I do 💻</p></li>
+<li><p align="left">Passionate for learning and developing technologies💭, that aims to solve problems creating a greater impact on mankind. With my passion for innovation, I believe in giving my best and love what I do 💻</p></li>
 </ul>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -24,11 +24,11 @@ or use it. It'll help me a great deal.
 - 👯 I’m looking to collaborate on **Open source projects and DSA-learning**
 - 🤝 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **anything(would definitely try helping you out)**
-- 📫 How to reach me [**ash.exp@outlook.com**](mailto:ash.exp@outlook.com)
+- 📫 How to reach me [**sambidbharadwaj@gmail.com**](mailto:sambidbharadwaj@gmail.com)
 - 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **Apart from playing with 0 1, I'm a sketch artist !!**&ensp;*This way to my ART GALLERY ➡️* <br>
+- ⚡ Fun fact: **Apart from playing with 0 1, I'm also into teaching, book reading, sports and social development activities !!**&ensp;*This way to my twitter handle(PS: all followers are welcome 😄) ➡️* <br>
  
-&emsp; &emsp;<a href="https://www.instagram.com/_vintage_hues/?hl=en"><img src="https://img.shields.io/badge/Instagram-2962FF?style=for-the-badge&logo=instagram&logoColor=white"></img></a>&nbsp;&nbsp;<br>
+&emsp; &emsp;<a href="https://twitter.com/sam_invincible3"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>&nbsp;&nbsp;<br>
 
 
 ## Tech Toolbox 🧰<br>
