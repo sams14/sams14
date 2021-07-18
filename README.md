@@ -28,7 +28,7 @@ or use it. It'll help me a great deal.
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **Apart from playing with 0 1, I'm also into teaching, book reading, sports and social development activities !!**&ensp;*This way to my twitter and instagram handles (PS: all followers are welcome 😄) ➡️* <br>
  
-&emsp; &emsp;<a href="https://twitter.com/sam_invincible3"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/><br>
+&emsp; &emsp;<a href="https://twitter.com/sam_invincible3"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/saminvincible3/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a><br>
 
 
 ## Tech Toolbox 🧰<br>
